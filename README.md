@@ -26,14 +26,15 @@ https://www.youtube.com/watch?v=VrYwxv41JsA&t=730s
 
 ## Features
 
-* Custom 3D-printed 7-segment display design
+* Custom 3D-printed 7-segment LED display design
 * RTC-based timekeeping
 * Speech output using Talkie library
 * Button-based time adjustment
 * PWM brightness control
 * Automatic brightness adjustment using LDR
-* Temperature and humidity sensing (DHT)
-* Random simple math question feature
+* Temperature and humidity sensing (by the use of DHT11 sensor)
+* Alarm function 
+* Random simple math question feature (for disabling the Alarm, to ensure maximum awakeness)
 * Modular enclosure design (printable without supports)
 
 ## 3D Design
@@ -70,7 +71,7 @@ Filament change tip:
 Power considerations:
 
 * Long USB cables may cause voltage drop and reset loops
-* A boost converter (5V → 6V) is used for the speaker amplifier
+* A boost converter (5V → 6V) is used for the speaker amplifier and increasing LED brightness 
 * The system includes a switch to toggle between 5V and 6V
 
 Alternative:
