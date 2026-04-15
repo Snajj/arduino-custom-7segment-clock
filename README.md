@@ -15,7 +15,7 @@ https://www.thingiverse.com/thing:6684505
 
 This project is a custom-designed Arduino clock built as part of a university art/engineering project. The goal was to create a visually unique digital clock using 7-segment displays with a custom aesthetic.
 
-Instead of using standard segments, the design is based on a stylized segment layout originally created by Posy. The design was adapted and made fully 3D printable.
+Instead of using standard segments, the design is based on a stylized segment layout originally created by Youtube content creater called: Posy. The design was adapted and made fully 3D printable.
 
 In addition to displaying time, the clock includes speech output, environmental sensing, and interactive features.
 
