@@ -1,5 +1,9 @@
 # arduino-custom-7segment-clock
 Embedded Arduino clock with RTC, shift-register-driven 7-segment display, speech synthesis (Talkie), and sensor integration.
+## 3D Printed Parts
+
+Thingiverse:
+https://www.thingiverse.com/thing:6684505
 
 # Arduino Talking Clock with Custom 7-Segment Display
 
