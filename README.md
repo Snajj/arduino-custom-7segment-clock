@@ -4,7 +4,7 @@ Embedded Arduino clock with RTC, shift-register-driven 7-segment display, speech
 # Arduino Talking Clock with Custom 7-Segment Display
 
 <p align="center">
-  <img src="lcd_demo.jpg" width="400">
+  <img src="image_demo.jpg" width="400">
 </p>
 
 ## Overview
